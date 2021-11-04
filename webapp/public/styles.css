@@ -1,0 +1,148 @@
+@media screen and (max-width: 739px) {
+  .header {
+    color: blue;
+    font-family: "Copperplate";
+    font-weight: 300;
+    font-size: 4.5vw;
+    text-align: center;
+
+    .navbar {
+      font-size: 1.5vw;
+    }
+  }
+
+  .emoji {
+    vertical-align: middle;
+    line-height: 2;
+  }
+
+  .footing {
+    margin-bottom: 0px;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 4vw;
+  }
+
+  .textbox1 {
+    text-align: center;
+    padding-top: 7vw;
+    font-size: 4vw;
+  }
+
+  .textbox2 {
+    text-align: center;
+    padding-top: 5vw;
+    font-size: 4vw;
+  }
+
+  .slideText {
+    font-family: Georgia;
+    font-size: 2vw;
+    color: white;
+    z-index: 4;
+  }
+
+  .hSlide {
+    font-family: Georgia;
+    font-size: 2vw;
+    color: white;
+    z-index: 4;
+  }
+}
+
+@media screen and (min-width: 740px) {
+  .header {
+    color: blue;
+    font-family: "Copperplate";
+    font-weight: 300;
+    font-size: 2vw;
+    text-align: center;
+  }
+
+  .navbar {
+    font-size: 1.5vw;
+  }
+
+
+  .footing {
+    margin-bottom: 0px;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 1vw;
+  }
+
+  .textbox1 {
+    text-align: center;
+    width: 50%;
+    max-width: 50%;
+    margin: 0 auto;
+    padding-top: 7vw;
+    font-size: 1.5vw;
+  }
+
+  .textbox2 {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 5vw;
+    font-size: 1.5vw;
+  }
+
+  .slideText {
+    font-family: Georgia;
+    font-size: 1vw;
+    color: white;
+    z-index: 4;
+  }
+
+  .hSlide {
+    font-family: Georgia;
+    font-size: 1vw;
+    color: white;
+    z-index: 4;
+  }
+}
+
+
+body {
+  background-color: #ffffff;
+  background-image: url("https://www.transparenttextures.com/patterns/tileable-wood-colored.png");
+  z-index: 2;
+}
+
+.carbon {
+  background-color: #ffffff;
+  background-image: url("https://www.transparenttextures.com/patterns/assault.png");
+}
+
+.carb {
+  background-color: #ffffff;
+  background-image: url("https://www.transparenttextures.com/patterns/black-felt.png");
+  min-height: 400px;
+  margin-bottom: 100px;
+  clear: both;
+}
+
+.clime {
+  background-color: #ffffff;
+  background-image: url("https://www.transparenttextures.com/patterns/skulls.png");
+}
+
+.global {
+  background-color: #ffffff;
+  background-image: url("https://www.transparenttextures.com/patterns/soft-kill.png");
+}
+
+.quest {
+  background-color: #ffffff;
+  background-image: url("https://www.transparenttextures.com/patterns/squares.png");
+}
+
+.GlobalCarbonEmission {
+  background-color: #dedede;
+  background-image: url("https://www.transparenttextures.com/patterns/white-diamond-dark.png");
+}
+
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.5);
+}
